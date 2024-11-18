@@ -61,8 +61,7 @@ def app():
            }
         prediction_df = pd.DataFrame(dict)
 
-        st.write("User details for prediction")
-
+        st.write("Your user details are being analyzed. We use data from reputable databases to give you an accurate prediction. Although we are able to use data to predict, it is most important to discuss this with your doctor.")
         st.write(prediction_df)
 
         with open("RF.pkl", 'rb') as pfile:  
