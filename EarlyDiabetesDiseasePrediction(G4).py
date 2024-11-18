@@ -11,15 +11,15 @@ def app():
     
     option2 = st.selectbox('Gender',('Male', 'Female'))
     
-    option3 = st.selectbox('Polyuria',('Yes', 'No'))
+    option3 = st.selectbox('Polyuria is difficulty urinating',('Yes', 'No'))
     
-    option4 = st.selectbox('Polydispia',('Yes', 'No'))
+    option4 = st.selectbox('Polydispia is excessive thirst',('Yes', 'No'))
     
     option5 = st.selectbox('Sudden weight loss',('Yes', 'No'))
 
     option6 = st.selectbox('Weakness',('Yes', 'No'))
 
-    option7 = st.selectbox('Polyphagia',('Yes', 'No'))
+    option7 = st.selectbox('Polyphagia is feeling extreme insatiable hunger',('Yes', 'No'))
 
     option8 = st.selectbox('Genital thrush',('Yes', 'No'))
 
@@ -31,11 +31,11 @@ def app():
 
     option12 = st.selectbox('Delayed healing',('Yes', 'No'))
 
-    option13 = st.selectbox('Partial Paresis',('Yes', 'No'))
+    option13 = st.selectbox('Partial Paresis is weakening of a muscle or group of muscles',('Yes', 'No'))
 
     option14 = st.selectbox('Muscle stiffness',('Yes', 'No'))
 
-    option15 = st.selectbox('Alopecia',('Yes', 'No'))
+    option15 = st.selectbox('Alopecia is hair loss',('Yes', 'No'))
 
     option16 = st.selectbox('Obesity',('Yes', 'No'))
     
