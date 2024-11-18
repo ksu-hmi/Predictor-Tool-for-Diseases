@@ -71,9 +71,9 @@ def app():
 
 
         if (y_predicted[0]==1): 
-            st.write("Sorry to say that you are Diabetic. Probability of being Positive with Diabetes is shown in column 1.:")
+            st.write("Sorry to say that you have a high probility of being a diabetic. Probability of being Positive with Diabetes is shown in column 1.:")
         else:
-            st.write("Congratulations! You are not Diabetic. Probability of being Negative with Diabetes is shown in column 0.")
+            st.write("Congratulations! You have low risk factors for being a diabetic. Probability of being Negative with Diabetes is shown in column 0.")
         st.write(model_loaded.predict_proba(prediction_df))
 
 app()
