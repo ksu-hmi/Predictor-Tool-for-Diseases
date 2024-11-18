@@ -3,11 +3,11 @@ import pandas as pd
 import pickle
 from sklearn.preprocessing import Binarizer
 
-st.title("Early Diabetes Disease preiction.")
+st.title("Welcome! You are here to see if you are at risk for diabetes. This is the Predictor Tool for Diabetes. Answer the following questions.")
 
 
 def app():
-    option1 = st.selectbox("Age(from 20 years to 65 years.), If above 35years select 'Yes' otherwise select 'No'.", ('Yes', 'No'))
+    option1 = st.selectbox("Age(from 20 years to 65 years.), If between the ages 20 years and 65 years type 'Yes' otherwise select 'No'.", ('Yes', 'No'))
     
     option2 = st.selectbox('Gender',('Male', 'Female'))
     
