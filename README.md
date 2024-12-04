@@ -14,6 +14,13 @@ Risk factors for developing diabetes:
   - Family History
   - Lifestyle
   - Preexisting Medical Conditions
+  - Overweight/Obesity
+  - Age 45 and older
+  - Parent or sibling with type 2 Diabetes
+  - Sedentary Lifestyle (physical activity less than 3 times a week)
+  - Non- Alcoholic Fatty Liver Disease
+  - Gestational Diabetes
+  - African American, Hispanic/Latino, American Indian, Alaska Native, Pacific Islander, Asian American
 
 Diabetes Predicitor Tools for Reference: 
 - Diabetes Risk Test (by the American Diabetes Association)
