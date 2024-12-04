@@ -13,3 +13,14 @@ Week 2:
  Make 6 commits
  Try to understand code that we choose for project
  Explain the code and what it is doing
+
+ Week 3:
+
+ Do more editing to the code. 
+ Do more research to find codes that may work better for the project.
+
+ Week 4:
+
+ Test and run the codes.
+ Make changes.
+ Create final touches on the project.
